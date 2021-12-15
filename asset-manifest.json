@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bearbnb/static/css/main.dd420144.chunk.css",
+    "main.js": "/bearbnb/static/js/main.1f164591.chunk.js",
+    "main.js.map": "/bearbnb/static/js/main.1f164591.chunk.js.map",
+    "runtime-main.js": "/bearbnb/static/js/runtime-main.66a556b2.js",
+    "runtime-main.js.map": "/bearbnb/static/js/runtime-main.66a556b2.js.map",
+    "static/js/2.f5251777.chunk.js": "/bearbnb/static/js/2.f5251777.chunk.js",
+    "static/js/2.f5251777.chunk.js.map": "/bearbnb/static/js/2.f5251777.chunk.js.map",
+    "index.html": "/bearbnb/index.html",
+    "static/css/main.dd420144.chunk.css.map": "/bearbnb/static/css/main.dd420144.chunk.css.map",
+    "static/js/2.f5251777.chunk.js.LICENSE.txt": "/bearbnb/static/js/2.f5251777.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bearbnb/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/cave1.c01d3aa9.png": "/bearbnb/static/media/cave1.c01d3aa9.png",
+    "static/media/cave2.69251452.png": "/bearbnb/static/media/cave2.69251452.png",
+    "static/media/cave3.b7978cfa.png": "/bearbnb/static/media/cave3.b7978cfa.png",
+    "static/media/den1.7d4f55cb.png": "/bearbnb/static/media/den1.7d4f55cb.png",
+    "static/media/house1.a6a6261f.png": "/bearbnb/static/media/house1.a6a6261f.png",
+    "static/media/iceberg1.28d3d413.png": "/bearbnb/static/media/iceberg1.28d3d413.png",
+    "static/media/icecave1.7476fbf9.png": "/bearbnb/static/media/icecave1.7476fbf9.png",
+    "static/media/logo.8181880d.png": "/bearbnb/static/media/logo.8181880d.png",
+    "static/media/tree1.fb6beb66.png": "/bearbnb/static/media/tree1.fb6beb66.png",
+    "static/media/tree2.1b91bb56.png": "/bearbnb/static/media/tree2.1b91bb56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a556b2.js",
+    "static/js/2.f5251777.chunk.js",
+    "static/css/main.dd420144.chunk.css",
+    "static/js/main.1f164591.chunk.js"
+  ]
+}
